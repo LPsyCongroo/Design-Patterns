@@ -46,7 +46,7 @@ const dragonArmy = {
         return { done: true };
       }
     }
-  }
+  },
 }
 
 for (const dragon of dragonArmy) {

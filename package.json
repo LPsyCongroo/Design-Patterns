@@ -1,0 +1,23 @@
+{
+  "name": "designpatterns",
+  "version": "1.0.0",
+  "description": "Implementations of popular design patterns in JavaScript, Python, and maybe eventually some Java if I can set up a decent workflow for running it in VSCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPsyCongroo/Design-Patterns.git"
+  },
+  "author": "Ali Rehmatullah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LPsyCongroo/Design-Patterns/issues"
+  },
+  "homepage": "https://github.com/LPsyCongroo/Design-Patterns#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0"
+  }
+}
